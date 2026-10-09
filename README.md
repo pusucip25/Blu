@@ -2,6 +2,8 @@
 
 Your personal AI companion. An animated extraterrestrial character that talks to you — not just answers questions, but acts as your AI agent.
 
+![Blu — AI talking friend on Android](screenshot.png)
+
 ## What is Blu?
 
 Blu is an Android app that brings an AI friend to your pocket. An alien character that:
